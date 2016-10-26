@@ -20,6 +20,7 @@
   "author": "Eugene Rodionov <rodionov@dtrussia.com>",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
+    "normalize.css": "5.0.0",
     "react": "15.3.2",
     "react-dom": "15.3.2",
     "react-redux": "4.4.5",
@@ -62,7 +63,6 @@
     "http-proxy-middleware": "0.17.2",
     "husky": "0.11.9",
     "json-loader": "0.5.4",
-    "normalize.css": "5.0.0",
     "postcss-color-function": "2.0.1",
     "postcss-conditionals": "2.0.2",
     "postcss-for": "2.1.1",
